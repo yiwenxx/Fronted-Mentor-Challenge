@@ -71,5 +71,4 @@ Also, to try to mimic the side image of the design preview, instead of simply ad
 
 ## Author
 
-- Website - [Yiwen Xu](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Yiwen Xu](https://github.com/yiwenxx)
